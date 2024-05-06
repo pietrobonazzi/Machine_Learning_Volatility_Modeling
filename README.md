@@ -78,8 +78,6 @@ The following table provides an overview of the key variables used in the analys
 - **Degree Programme:** Finance - Quantitative Finance
 - **Institution:** Università della Svizzera italiana
 - **Faculty:** Faculty of Economics
-- **Student:** Pietro Bonazzi
-- **Student ID:** 21-987-847
 
 ---
 
